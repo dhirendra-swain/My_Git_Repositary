@@ -50,7 +50,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 <configuration>
-                <outputDirectory>/home/dswain/target_jar/</outputDirectory>
+                <outputDirectory>/home/dswain/myGitRepo/My_Git_Repositary/target/</outputDirectory>
             </configuration>
 			</plugin>
 		</plugins>
